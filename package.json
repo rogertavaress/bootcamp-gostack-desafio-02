@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-gostack-desafio-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rogertavaress/bootcamp-gostack-desafio-02.git",
+  "author": "Rogério Tavares <rogerioctf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.10.1"
+  }
+}
